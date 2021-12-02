@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="personal.app.drakkar_gestor_financiero">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Drakkar_Gestor_Financiero"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".ContOlvResultadoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrarResultadoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MiPerfilCamConActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MiPerfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TransaccionesModEliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CategoriasSeleccionarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CategoriasModEliActivty"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ContOlvActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IniciarSesionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CategoriasAgregarActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CategoriasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PrincipalActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_account_balance_24.xml" value="0.3267543859649123" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_add_24.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_arrow_forward_ios_24.xml" value="0.3267543859649123" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_calendar_today_24.xml" value="0.3267543859649123" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_edit_20.xml" value="0.3267543859649123" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_edit_24.xml" value="0.3267543859649123" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_folder_24.xml" value="0.3267543859649123" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_home_24.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_leaderboard_24.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_navigate_before_24.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_navigate_next_24.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_payments_24.xml" value="0.3267543859649123" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_sync_alt_24.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable/rounded_corners.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable/rounded_corners_green.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable/rounded_corners_red.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable/rounder_corners_green.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/drawable/splashscreen.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_agregar_cat.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_categorias.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_inicio.xml" value="0.371875" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_main.xml" value="0.2967581047381546" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_principal.xml" value="0.3131578947368421" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/categorias_list.xml" value="0.67" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/fragment_agregar.xml" value="0.33" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/fragment_estadistica.xml" value="0.371875" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/fragment_inicio.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/fragment_transacciones.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/fragment_transferencias.xml" value="0.3131578947368421" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/layout/transacciones_list.xml" value="0.5" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Drakkar_Gestor_Financiero/app/src/main/res/menu/bottom_navigation.xml" value="0.371875" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_add_24.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_edit_24.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_email_24.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/drawable-v24/round_person_24.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/drawable/ic_drakkar.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/drawable/splashscreen.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_agregar_cat.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_agregar_sel_cat.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_agregar_selcat.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_categorias.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_categorias_agregar.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_categorias_modeli.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_categorias_seleccionar.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_cont_olv.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_cont_olv_resultado.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_contra_olvidad.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_iniciar_sesion.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_iniciarsesion.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_main.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_miperfil.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_miperfil_camcon.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_mod_eli_cat.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_mod_eli_cat_activty.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_principal.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_reg_inicses.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_registrar.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_registrar_resultado.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/activity_transacciones_modeli.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/categorias_list.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/estadisticabc1.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/estadisticabc2.xml" value="0.5" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/estadisticabc2bc3.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/fragment_agregar.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/fragment_estadistica.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/fragment_inicio.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/fragment_transacciones.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/loading_dialog.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/round_person_24.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/layout/transacciones_list.xml" value="0.5" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/menu/bottom_navigation.xml" value="0.30526315789473685" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18421052631578946" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/mipmap-anydpi-v26/splash.xml" value="0.318859649122807" />
+        <entry key="..\:/Documents/AndroidStudioProjects/Proyecto/Drakkar_Gestor_Financiero/app/src/main/res/mipmap-anydpi-v26/splash_round.xml" value="0.318859649122807" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
