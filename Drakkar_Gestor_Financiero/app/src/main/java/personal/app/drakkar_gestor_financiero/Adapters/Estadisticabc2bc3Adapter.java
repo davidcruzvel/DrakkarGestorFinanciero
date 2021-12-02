@@ -63,7 +63,7 @@ public class
             holder.pnlSeparador1bc2bc3.setVisibility(View.INVISIBLE);
         }
         holder.tvCategoriabc2bc3.setText(obj.getCategoria());
-        holder.tvMontobc2bc3.setText(obj.getMonto());
+        holder.tvMontobc2bc3.setText(String.format("%.2f", Double.parseDouble(obj.getMonto())));
         if(tipo == 1){ //si el tipo es 1 entonces son gastos.
             holder.tvMontobc2bc3.setTextColor(Color.parseColor("#F44336")); //damos color rojo al TextView del monto.
             double porcentaje = (Double.parseDouble(obj.getMonto())*100)/(gastot); //calculamos el porcentaje de ese monto.
