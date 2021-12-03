@@ -133,8 +133,9 @@ public class CategoriasActivity extends AppCompatActivity {
                 @Override
                 public void onResponse(Call<List<Categorias>> call, Response<List<Categorias>> response) {
                     if (response.isSuccessful()) { //si se ejecuta exitosamente.
-                        lstCategorias = response.body(); //seteamos el response.body() que nos devolvera una lista de categorías en la variable lstCategorias.
+                        lstCategorias = response.body(); //seteamos el response.body() que nos devolvera una lista de categorías en la variable lstCategorias.                        
                         if(lstCategorias.isEmpty()){ //si la lista está vacía.
+                            rvCatRes.setVisibility(View.GONE);
                             tvNoDatosCat.setVisibility(View.VISIBLE); //ponemos como visible el TextView que nos indica que no hay categorias registradas.
                         }else{ //si la lista no está vacía.
                             //preparamos el RecylerView seteandole el layout.
@@ -149,6 +150,7 @@ public class CategoriasActivity extends AppCompatActivity {
                 @Override
                 public void onFailure(Call<List<Categorias>> call, Throwable t) { //si hay un error a la hora de comunicarse con la API
                     tvNoDatosCat.setVisibility(View.VISIBLE); //ponemos como visible el TextView.
+                    rvCatRes.setVisibility(View.GONE);
                     tvNoDatosCat.setText(R.string.errorconexion); //le seteamos el texto de "Error de conexión" al TexView.
                 }
             });
