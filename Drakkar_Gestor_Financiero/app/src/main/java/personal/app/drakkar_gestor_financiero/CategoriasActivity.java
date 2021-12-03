@@ -139,6 +139,7 @@ public class CategoriasActivity extends AppCompatActivity {
                             tvNoDatosCat.setVisibility(View.VISIBLE); //ponemos como visible el TextView que nos indica que no hay categorias registradas.
                         }else{ //si la lista no está vacía.
                             //preparamos el RecylerView seteandole el layout.
+                            rvCatRes.setVisibility(View.VISIBLE)
                             linearLayoutManager = new LinearLayoutManager(CategoriasActivity.this, RecyclerView.VERTICAL, false);
                             rvCatRes.setLayoutManager(linearLayoutManager);
                             //seteamos el adaptador del RecylerView y a este le enviamos la lista de categorias y el contexto de la Activity.
