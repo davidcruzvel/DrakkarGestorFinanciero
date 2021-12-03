@@ -107,6 +107,7 @@ public class CategoriasSeleccionarActivity extends AppCompatActivity {
                     if (response.isSuccessful()) { //si se ejecuta exitosamente.
                         lstCategorias = response.body(); //seteamos el response.body() que nos devolvera una lista de categorías en la variable lstCategorias.
                         if(lstCategorias.isEmpty()){ //si la lista está vacía.
+                            rvAgrSelCatRes.setVisibility(View.GONE);
                             tvNoDatosAgrSelCat.setVisibility(View.VISIBLE); //ponemos como visible el TextView que nos indica que no hay categorias registradas.
                         }else{ //si la lista no está vacía.
                             //preparamos el RecylerView seteandole el layout.
@@ -120,6 +121,7 @@ public class CategoriasSeleccionarActivity extends AppCompatActivity {
                 }
                 @Override
                 public void onFailure(Call<List<Categorias>> call, Throwable t) { //si hay un error a la hora de comunicarse con la API
+                    rvAgrSelCatRes.setVisibility(View.GONE);
                     tvNoDatosAgrSelCat.setVisibility(View.VISIBLE); //ponemos como visible el TextView que nos indica que no hay categorias registradas.
                     tvNoDatosAgrSelCat.setText(R.string.errorconexion); //le seteamos el texto de "Error de conexión" al TexView.
                 }
